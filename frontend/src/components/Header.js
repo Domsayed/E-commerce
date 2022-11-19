@@ -45,7 +45,7 @@ const Header = ()=>{
                         letterSpacing='md'
                         size='md'>
                     <Link   as={RouterLink}  to='/' 
-                       _hover={{color:'whiteAlpha.300', textDecoration:'none'}}>Rststore...</Link>
+                       _hover={{color:'whiteAlpha.300', textDecoration:'none'}}>Alfa Boutiqe</Link>
                 </Heading>
 
                 <Box 
